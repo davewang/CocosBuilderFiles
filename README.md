@@ -1,0 +1,4 @@
+CocosBuilderFiles
+=================
+
+CocosBuilder Simple case.
